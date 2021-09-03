@@ -1,2 +1,2 @@
 # Leet_Code
-Repository for practicing Leet Code Python excercises
+Repository for Leet Code excercises exclusively in Python language.
